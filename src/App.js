@@ -79,12 +79,12 @@ export default function App() {
       </div>
       {/* ************************* GRID *************************************  */}
       <div className="grid sm:grid-cols-2 md:grid-cols-3 lg:grid-cols-4 gap-4 text-white text-center">
-        <div className="p-6 rounded-lg bg-pink-700 ">1</div>
-        <div className="p-6 rounded-lg bg-pink-700">2</div>
-        <div className="p-6 rounded-lg bg-pink-700">3</div>
-        <div className="p-6 rounded-lg bg-pink-700 col-span-2">4</div>
-        <div className="p-6 rounded-lg bg-pink-700">5</div>
-        <div className="p-6 rounded-lg bg-pink-700">6</div>
+        <div className="p-6 rounded-lg bg-slate-700 ">1</div>
+        <div className="p-6 rounded-lg bg-slate-700">2</div>
+        <div className="p-6 rounded-lg bg-slate-700">3</div>
+        <div className="p-6 rounded-lg bg-slate-700 col-span-2">4</div>
+        <div className="p-6 rounded-lg bg-slate-700">5</div>
+        <div className="p-6 rounded-lg bg-slate-700">6</div>
       </div>
     </div>
   )
